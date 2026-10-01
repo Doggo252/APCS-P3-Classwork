@@ -6,7 +6,7 @@ public class Runner {
         System.out.print("What is the radius: ");
         double radius = sc.nextDouble();
 
-        Circle circle = new Circle(radius);
+        AICircle circle = new AICircle(radius);
 
         //calculates area
 
